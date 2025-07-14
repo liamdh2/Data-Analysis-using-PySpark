@@ -52,14 +52,10 @@ This project demonstrates how to perform large-scale data analysis using **PySpa
 - Group by and join with other datasets
 - Sample Spark data into Pandas for lightweight visual exploration
 
-### 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 ### 📫 Contact
 
-Liam Harding — [liamdharding@gmail.com](mailto:liamdharding@gmail.com)
+Liam Harding — [liamharding@rocketmail.com](mailto:liamharding@rocketmail.com)
